@@ -1,2 +1,1 @@
-# BugBountyFavourites
-bug bounty writeups and research articles
+IIS Short Name: http://www.kamilonurozkaleli.com/posts/rce-on-starbucks-singapore-and-more/ 
